@@ -1,7 +1,7 @@
 {
-    "version": "1.0.1",
-    "url": "https://github.com/Tachirx/SCAD-Updates/releases/download/v1.0.1-tauri/SCAD_Desktop_1.0.1_x64_setup.exe",
-    "notes": "Actualización Tauri v2 - SCAD Desktop (Rendimiento y Estabilidad)",
-    "checksum": "04524A648F471716E44E9600DC40A72CC32D9BC81FD9E0AF34266ECA6DF18751",
+    "version": "1.0.2",
+    "url": "https://github.com/Tachirx/SCAD-Updates/releases/download/v1.0.2-tauri/SCAD_Desktop_1.0.2_x64_setup.exe",
+    "notes": "Actualización Tauri v2 - SCAD Desktop (Nuevo Isotipo Oficial Multicolor)",
+    "checksum": "099CB0C88E3F0D9428632DBE964FD917723C0FC7AD1BCDC2708132636DE5F726",
     "maintenance": false
 }
